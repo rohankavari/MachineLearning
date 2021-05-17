@@ -3,8 +3,8 @@
 ### Linear Regression-
 
 * Scikit Learn Implementaion;
-	* [House Price Prediction](https://github.com/rohankavari/MachineLearning/blob/main/Linear_regression.ipynb)
-	* [Powerplant output Prediction](https://github.com/rohankavari/MachineLearning/blob/main/Energy_Prediction_of_Power_plant.ipynb)
+	* [House Price Prediction](https://github.com/rohankavari/MachineLearning/blob/main/Linear_regression.ipynb);
+	* [Powerplant output Prediction](https://github.com/rohankavari/MachineLearning/blob/main/Energy_Prediction_of_Power_plant.ipynb);
 
 * Apache Spark Implementaion
 	* [House Price Prediction](https://github.com/rohankavari/MachineLearning/blob/main/spark_Linear_regression.ipynb)
