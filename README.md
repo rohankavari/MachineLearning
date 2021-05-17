@@ -1,6 +1,6 @@
 # Machine Learning
 
-## Linear Regression-
+### Linear Regression-
 
 [House Price Prediction](https://github.com/rohankavari/MachineLearning/blob/main/Linear_regression.ipynb)
 
@@ -8,7 +8,7 @@
 
 [House Price Prediction in Apache spark](https://github.com/rohankavari/MachineLearning/blob/main/spark_Linear_regression.ipynb)
 
-## Logistic Regression-
+### Logistic Regression-
 
 [Iris Data classification](https://github.com/rohankavari/MachineLearning/blob/main/Logistic_Regression_balanced.ipynb)
 
