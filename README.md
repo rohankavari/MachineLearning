@@ -1,6 +1,6 @@
 # Machine Learning
 
-### Linear Regression-
+## Linear Regression-
 
 * Scikit Learn Implementaion
 	* [House Price Prediction](https://github.com/rohankavari/MachineLearning/blob/main/Linear_regression.ipynb)
@@ -10,7 +10,7 @@
 	* [House Price Prediction](https://github.com/rohankavari/MachineLearning/blob/main/spark_Linear_regression.ipynb)
 
 
-### Logistic Regression-
+## Logistic Regression-
 
 * Scikit Learn Implementaion
 	* [Iris Data classification with Scikit-Learn](https://github.com/rohankavari/MachineLearning/blob/main/Logistic_Regression_balanced.ipynb)
