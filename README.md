@@ -18,9 +18,8 @@
 
 * Apache Spark Implementaion
 
-# List 
-* Item 1;
-	* Item 1.1;
-* Item 2;
-	* Item 2.1;
-	* Item 2.2;
+## Support Vector Machine-
+
+* Scikit Learn Implementaion
+	
+* Apache Spark Implementaion
