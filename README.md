@@ -13,8 +13,8 @@
 ## Logistic Regression-
 
 * Scikit Learn Implementation
-	* [Iris Data classification with Scikit-Learn](https://github.com/rohankavari/MachineLearning/blob/main/Logistic_Regression_balanced.ipynb)
-	* [Coronary heart disease classification with Scikit-Learn](https://github.com/rohankavari/MachineLearning/blob/main/Logistic_Regression_imbalanced.ipynb)
+	* [Iris Data classification](https://github.com/rohankavari/MachineLearning/blob/main/Logistic_Regression_balanced.ipynb)
+	* [Coronary heart disease classification](https://github.com/rohankavari/MachineLearning/blob/main/Logistic_Regression_imbalanced.ipynb)
 
 * Apache Spark Implementation
 
