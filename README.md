@@ -1,5 +1,5 @@
 # Machine Learning Algorithms
----
+
 # Supervised Learning
 ## Linear Regression-
 
