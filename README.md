@@ -33,12 +33,6 @@
 	
 * Apache Spark Implementation
 
-## Decision Tree:
-
-* Scikit Learn Implementation
-	
-* Apache Spark Implementation
-
 ## Ensemble Learning:
 
 * Scikit Learn Implementation
