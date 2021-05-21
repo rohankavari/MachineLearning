@@ -1,5 +1,5 @@
 # Machine Learning
-
+---
 ## Linear Regression-
 
 * Scikit Learn Implementation
