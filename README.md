@@ -1,5 +1,6 @@
-# Machine Learning
+# Machine Learning Algorithms
 ---
+#Supervised Learning
 ## Linear Regression-
 
 * Scikit Learn Implementation
