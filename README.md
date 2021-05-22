@@ -24,6 +24,7 @@
 * Scikit Learn Implementation
 	* [Breast Cancer Classification](https://github.com/rohankavari/MachineLearning/blob/main/Breast_cancer_classification.ipynb) 
 	* [Bank Note Classification](https://github.com/rohankavari/MachineLearning/blob/main/Bank_Note_Classification.ipynb)
+	* [Kernelized SVM](https://github.com/rohankavari/MachineLearning/blob/main/SVM_Kernels.ipynb)
 	
 * Apache Spark Implementation
 
