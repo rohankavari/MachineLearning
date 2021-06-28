@@ -31,7 +31,7 @@
 ## Decision Tree:
 
 * Scikit Learn Implementation
-	
+	* [Mushroom Classification](https://github.com/rohankavari/MachineLearning/blob/main/decision_tree_mushroom_data.ipynb)
 * Apache Spark Implementation
 
 ## Ensemble Learning:
