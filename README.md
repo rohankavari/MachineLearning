@@ -32,6 +32,7 @@
 
 * Scikit Learn Implementation
 	* [Mushroom Classification](https://github.com/rohankavari/MachineLearning/blob/main/decision_tree_mushroom_data.ipynb)
+	* [Heart Disease classification](https://github.com/rohankavari/MachineLearning/blob/main/Heart_disease_classification_Decision_tree.ipynb)
 * Apache Spark Implementation
 
 ## Ensemble Learning:
